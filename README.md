@@ -1,6 +1,6 @@
 # Divvy + Weather Analysis
 
-This project analyzes Divvy bike trips (2014–2017) with hourly weather to produce normalized 0–1 impact metrics for factors like time of day, weekday, weather, temperature, station popularity, distance, and user type.
+This project analyzes Divvy bike trips (2014–2017) with hourly weather to produce normalized 0–1 impact metrics for factors like time of day, weekday, weather, temperature, station popularity, distance, and user type. The goal is to understand how these factors affect trip duration. The analysis is based on the public domain Divvy dataset available on Kaggle: https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data/data
 
 ## Repository layout
 
