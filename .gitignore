@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+.divvy_cache/
+divvy_analysis_output/
+weather_events_summary.txt
+
+# Data (avoid pushing multi-GB CSVs)
+*.csv
+*.parquet
+*.feather
+*.tsv
+*.json
+
+# IDE
+.vscode/
+.idea/
